@@ -7,6 +7,6 @@ Für die Schweizer Justiz könnten Digitale Zwillinge unter anderem:
 •	interkantonale und interinstitutionelle Zusammenarbeit realitätsnah abbilden
 •	Harmonisierungspotenziale in der kantonalen IT Landschaft identifizieren
 •	Effizienzsteigerungen in Routineprozessen ermöglichen
-•	Digitalisierungsprozesse im Justizvollzug unterstützen zB. durch virtuelle Pilotierungen
+•	Digitalisierungsprozesse im Justizvollzug unterstützen zB. durch virtuelle Pilotierungen.
 Damit würden Digitale Zwillinge nicht nur die Digitalisierung beschleunigen, sondern auch die Qualität und Nachvollziehbarkeit von Entscheidungen verbessern, da sie datenbasierte Erkenntnisse liefern, die heute oft fehlen. Sie reduzieren Risiken, indem sie Auswirkungen geplanter Massnahmen sichtbar machen, bevor teure oder irreversible Entscheidun-gen getroffen werden.
 Die Schweiz hat ein föderales Justizsystem mit 26 unterschiedlichen IT-Landschaften und Prozesskulturen. Der Einsatz digitaler Zwillinge würde auf vielen Ebenen unterstützen.
